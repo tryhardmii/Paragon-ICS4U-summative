@@ -1,0 +1,21 @@
+Hello and welcome to paragon!/This is the lobby/Complete quests from me to earn gold and rewards!/For your first quest, get to know the people in the lobby more! Talk to 5 people around the lobby.|talk to 5 npcs
+Congratulations on completing your first quest!/Oh, you found a sword? You can keep it I guess./For your next quest, battle five monsters in the tall grass around area 1.|defeat 5 monsters
+You earned 100 gold./ Also, you can sell those drops from the monsters to me for even more coins!/Anyway, your next quest is to defeat 10 more monsters.|defeat 10 monsters
+Wow, you're getting strong now!/ Here, take these running shoes./ They allow you to run./ To run, hold LSHIFT while pressing any movement keys!/ Here, try it out!/ Collect 5 drops from monsters and come back.|defeat 5 monsters
+Wow, that was fast!/ I heard there's a chest in the bottom right corner of the map. Chests can give you gold and other useful drops.|find the chest
+You can find more chests around the map to get rewards/For your next quest, there's a rare monster hanging around area 1. Word has it that it drops a legendary sword!|fight legendary monster
+Wow! You've beaten basically all that this area has to offer./You can go to the next area now!|travel to the new area
+How do you like the new area?/Defeat 5 monsters in between route in area 2|5 area 2 monsters
+There's an old lady who lives in a house here that seems to need help... /Find her and figure out what she needs| talk to the old lady
+Find the old man in area 1/Find the old man in area 1| find the old man
+Bring the old man to his wife/Bring the old man to his wife|go to old woman
+Wow! the old woman sure is grateful for your help!/For your next quest, defeat 10 monsters in area 1|defeat 10 monsters
+You're really getting the hang of it!/ You are ready for the snowy area. Travel there.| Go to area 3
+How do you like the new area?/ For your next quest, defeat 5 monsters there|5 area 3 monsters
+Looking good!/ Next, Collect 3 Teeth from the area 3 monsters!|Collect 3 Teeth
+Wow! You're getting so strong!/Defeat 10 more monsters from area3|10 area 3 monsters
+You did it!/I have just one final quest for you.../There is a wizard in one of the houses in area 3 and I heard he's a bit angry.../Would you please go talk to him?|Talk to wizard
+Wow the wizard sure is mad./This is not good|He went into the lobby so we all ran out here!/Please save us!|save the world
+You saved us!/You saved us!|twice otherwise it doesnt work
+You saved us!/You saved us!|twice otherwise it doesnt work
+must be a line here otherwise bugs occur/a/a|a

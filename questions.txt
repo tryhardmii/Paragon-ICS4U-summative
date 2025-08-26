@@ -1,0 +1,40 @@
+4 * 4 = ?|8|1|4|16:3
+2 * 13 = ?|83|15|26|14:2
+8 * 11 = ?|0|88|84|19:1
+2 * 4 = ?|8|5|16|325:0
+5 * 6 = ?|0|1|25|30:3
+7 * 4 = ?|21|28|11|26:1
+9 * 6 = ?|14|27|54|45:2
+9 / 3 = ?|3|1|27|18:0
+2 * 9 = ?|235|18|11|23:1
+3 * 4 = ?|10|7|12|3:2
+-
+37 * 18 = ?|594|628|666|692:2
+24 * 29 = ?|696|764|792|828:0
+41 * 13 = ?|513|533|553|573:1
+56 * 17 = ?|952|956|968|976:0
+63 * 12 = ?|756|792|828|864:0
+82 * 15 = ?|1210|1230|1240|1260:1
+77 * 23 = ?|1697|1771|1801|1851:1
+49 * 31 = ?|1519|1579|1619|1679:0
+91 * 19 = ?|1729|1819|1909|1999:0
+68 * 27 = ?|1836|1848|1864|1876:0
+-
+What is the next number in the pattern: 19, 38, 57, 76, 95, ...?|114|133|152|171:0
+What is the next number in the pattern: 15, 30, 60, 120, 240, ...?|360|480|500|600:1
+What is the next number in the pattern: 14, 28, 56, 112, 224, ...?|448|456|464|472:0
+What is the next number in the pattern: 7, 14, 28, 56, 112, ...?|220|228|224|248:2
+What is the next number in the pattern: 13, 26, 39, 52, 65, ...?|78|91|104|117:0
+What is the next number in the pattern: 22, 33, 55, 88, 132, ...?|222|198|209|187:3
+What is the next number in the pattern: 2, 4, 8, 16, 32, ...?|60|34|64|20:2
+-
+Solve for x in the equation 3x^2 - 5x + 2 = 0.|2/5|1/3|1|1/4:2
+If a box contains 36 chocolates and 6 chocolates are taken out, how many chocolates are left?|24|28|30|32:2
+Calculate 74 * 89.|6503|6586|6686|6760:1
+In a school, there are 150 students. Each student needs 5 markers for their project. If a pack contains 30 markers, how many packs of markers should the school buy to have enough for all students?|4|5|6|7:1
+A rectangular garden has a perimeter of 76 meters. If the length of the garden is 22 meters, what is the width of the garden?|14|16|18|20:1
+Mary buys a book for $14.95, a pen for $2.50, and a notebook for $8.75. How much money did Mary spend in total, and how much change will Mary receive from a $50 bill?|31.20|31.90|31.95|32.05:0
+Solve for x in the equation 2x^2 - 5x + 3 = 0.|3/2, 1|1/2, 3|-1/2, 2|-3/2, 2:0
+A store sells 48 pencils in packs of 8. How many packs of pencils does the store sell?|5|6|7|8:1
+The area of a rectangle is 240 square meters, and its length is 20 meters. What is the width of the rectangle?|12|14|16|18:0
+Emily bought a book for $19.95, a pen for $2.50, and a notebook for $8.75. How much money did Emily spend in total, and how much change will Emily receive from a $50 bill?|31.20, 18.80|31.90, 19.80|31.95, 20.80|32.05, 21.80:0-
